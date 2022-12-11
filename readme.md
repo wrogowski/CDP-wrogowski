@@ -1,1 +1,1 @@
-Repo creadted for the sake of CDP course - git section.
+Repo created for the sake of CDP course - git section.
