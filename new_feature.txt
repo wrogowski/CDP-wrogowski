@@ -1,7 +1,9 @@
-const new_feature {
+function calculator((a, b) => {
   const sum = a + b
-  const a = 2
-  const b = '2'
 
   return sum
 }
+
+
+const a = 2
+const b = '2'
