@@ -8,4 +8,4 @@ function calculator((a, b) => {
 const a = 2
 const b = '2'
 
-//dupa
+//dupa tu powinna być zmienna sumująca a i b!
