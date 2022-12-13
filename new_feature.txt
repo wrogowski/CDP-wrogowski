@@ -4,7 +4,7 @@ function calculator((a, b) => {
   return sum
 }
 
-const a = 2
-const b = '2'
+const a = 25
+const b = '25'
 
 const giveMeTheResult = calculator(a, b)
