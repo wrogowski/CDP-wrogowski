@@ -4,8 +4,7 @@ function calculator((a, b) => {
   return sum
 }
 
-
 const a = 2
 const b = '2'
 
-//dupa
+const giveMeTheResult = calculator(a, b)
