@@ -1,5 +1,0 @@
-add - mówimy gitowi: "ten plik staje się częścią repo, śledź go!" 
-commit - zrzut konkretnej wersji plików na moment wykonania commita
-status - zmiany w "working copy", czyli pliki, które się zmieniły od ostatniego commita
-diff - pokazuje dokładne zmiany w plikach od ostatniego commita
-rm - remove, odwrotność add, wywala ze śledzenia przez gita

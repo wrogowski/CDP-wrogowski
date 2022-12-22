@@ -1,7 +1,0 @@
-tagi dodają labelkę do commita, pozwalają potem w łatwy sposób odszukać konkretny punkt w historii (np. miejsce w któym zczęło się grubą orkę w kodzie, żeby łatwiej było wrócić) 
-
-najpierw znajdujemy hash commita, który chcemy otagować poprzez np. git log --oneline, albo gitk --all,
-następnie: git tag nazwa_taga #hash_commita
-git show nazwa_taga
-
-można też łatwo się zcheckoutować na ten commit: checkout tag (chyba)
