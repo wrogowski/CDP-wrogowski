@@ -1,5 +1,23 @@
 {
   "dependencies": {
+    "chai": "^4.3.7",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.0",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "cdp-wrogowski",
+  "description": "CDP course classes",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "kursyWalut.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrogowski/CDP-wrogowski.git"
+  },
+  "author": "odzio",
+  "license": "ISC"
 }
