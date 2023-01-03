@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "chai": "^4.3.7",
+    "dayjs": "^1.11.7",
     "fs": "^0.0.1-security",
-    "moment": "^2.29.4",
     "node-fetch": "^3.3.0",
     "readline-sync": "^1.4.10"
   },
