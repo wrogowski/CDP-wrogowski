@@ -4,7 +4,8 @@
     "dayjs": "^1.11.7",
     "fs": "^0.0.1-security",
     "node-fetch": "^3.3.0",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "@faker-js/faker": "^7.6.0"
   },
   "name": "cdp-wrogowski",
   "description": "CDP course classes",
