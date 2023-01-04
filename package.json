@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
     "chai": "^4.3.7",
     "dayjs": "^1.11.7",
     "fs": "^0.0.1-security",
     "node-fetch": "^3.3.0",
-    "readline-sync": "^1.4.10",
-    "@faker-js/faker": "^7.6.0"
+    "readline-sync": "^1.4.10"
   },
   "name": "cdp-wrogowski",
   "description": "CDP course classes",
@@ -20,5 +20,8 @@
     "url": "git+https://github.com/wrogowski/CDP-wrogowski.git"
   },
   "author": "odzio",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
 }
