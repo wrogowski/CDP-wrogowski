@@ -22,6 +22,11 @@
   "author": "odzio",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.3.0"
-  }
+    "cypress": "^12.3.0",
+    "cypress-localstorage-commands": "^2.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/wrogowski/CDP-wrogowski/issues"
+  },
+  "homepage": "https://github.com/wrogowski/CDP-wrogowski#readme"
 }
